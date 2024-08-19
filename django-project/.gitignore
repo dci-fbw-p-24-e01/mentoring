@@ -1,0 +1,11 @@
+venv
+venv/
+.venv
+.venv/
+
+blog_env
+.blog_env
+blog_env/
+.blog_env/
+
+db.sqlite3
